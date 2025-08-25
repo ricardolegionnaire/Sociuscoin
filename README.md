@@ -1,4 +1,4 @@
-# SOCIUS COIN ($SCS)
+# SOCIUS ($SCS)
 
 **Mint Address:** BMvVEs2ryg4dUDxC7VKR6GJJKpXoAsc3QW1FdT8aky5k  
 **Decimals:** 4  
