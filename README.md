@@ -103,7 +103,7 @@ The project focuses on real-world payments, transparent governance, and building
 - **Team/Marketing (20%)** → 162,333,400 SCS  
 - **Reserve/Admin (5%)** → 40,583,350 SCS  
 
-🔗 [Full Rich List (Google Sheets)](LINK_DO_ANNEX_A)
+🔗 [Full Rich List (Google Sheets)](https://docs.google.com/spreadsheets/d/14WC7XE_jrrOAMkvFc4YbWb9-t5e1rA67bbBBOC3G9js/edit?usp=drive_link)  
 
 ---
 
@@ -119,7 +119,7 @@ The project focuses on real-world payments, transparent governance, and building
 | Team Allocation                | 2025-08-16       | 2028-08-16       | Linear       | 12    | Monthly   | 162,333,400  |
 | Airdrops                       | 2025-08-23       | 2026-02-23       | Linear       | 6     | Monthly   | 40,583,350   |
 
-🔗 [Full Unlock Schedule (Google Sheets)](LINK_DO_ANNEX_M)
+🔗 [Full Unlock Schedule (Google Sheets)](https://docs.google.com/spreadsheets/d/1mqGDq25ALXAz4vD3U980_pE0M23rx8m6LYezPgRRpN4/edit?usp=drive_link)  
 
 ---
 
