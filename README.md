@@ -93,6 +93,36 @@ The project focuses on real-world payments, transparent governance, and building
 
 ---
 
+## 📑 Annex A – Rich List (Allocations)
+
+- **Community (75%)** → 608,750,249 SCS  
+  - Pool Liquidity – 30,437,512 SCS  
+  - Burn – 30,437,512 SCS  
+  - Locked Main Contract – 365,250,149 SCS (Tranches)  
+  - Airdrops – 40,583,350 SCS  
+- **Team/Marketing (20%)** → 162,333,400 SCS  
+- **Reserve/Admin (5%)** → 40,583,350 SCS  
+
+🔗 [Full Rich List (Google Sheets)](LINK_DO_ANNEX_A)
+
+---
+
+## 📑 Annex M – Unlock Schedule
+
+| Allocation Name                | Start Date        | End Date          | Vesting Type | Every | Frequency | Amount       |
+|--------------------------------|------------------|------------------|--------------|-------|-----------|--------------|
+| Pool Liquidity – Tranche 1     | 2025-08-16       | 2025-08-16       | Cliff        |       |           | 30,437,512   |
+| Burn – Tranche 1               | 2025-08-23       | 2025-08-23       | Cliff        |       |           | 30,437,512   |
+| Locked Main Contract – Tranche 1 | 2026-02-23     | 2026-08-23       | Linear       | 6     | Monthly   | 182,625,075  |
+| Locked Main Contract – Tranche 2 | 2026-11-23     | 2027-02-23       | Linear       | 3     | Monthly   | 91,312,537   |
+| Locked Main Contract – Tranche 3 | 2027-05-23     | 2027-08-23       | Linear       | 3     | Monthly   | 91,312,537   |
+| Team Allocation                | 2025-08-16       | 2028-08-16       | Linear       | 12    | Monthly   | 162,333,400  |
+| Airdrops                       | 2025-08-23       | 2026-02-23       | Linear       | 6     | Monthly   | 40,583,350   |
+
+🔗 [Full Unlock Schedule (Google Sheets)](LINK_DO_ANNEX_M)
+
+---
+
 ## ⚠️ Disclaimer
 SOCIUS Coin is a **community-driven project**. This repository and documentation are provided for **transparency purposes only**.  
 Nothing here constitutes financial advice. Always **Do Your Own Research (DYOR)** before making any investment decisions.  
