@@ -56,8 +56,9 @@ The project focuses on real-world payments, transparent governance, and building
 
 ## 🌐 Social Media
 - Telegram: [t.me/sociuscoins](https://t.me/sociuscoins)  
-- Discord: [discord.gg/wEK7vyww](https://discord.gg/wEK7vyww)  
-- Twitter/X: [x.com/legionnaire25](https://x.com/legionnaire25)  
+- Discord: [discord.com/invite/sAFxXJYA](https://discord.com/invite/sAFxXJYA)  
+- Twitter/X (Official): [x.com/CoinSocius](https://x.com/CoinSocius)  
+- Twitter/X (Owner): [x.com/legionnaire25](https://x.com/legionnaire25)  
 - Facebook: [Facebook Page](https://www.facebook.com/share/1JchE9nZ6A/)  
 - Instagram: [Instagram Page](https://www.instagram.com/) *(official link coming soon)*  
 
@@ -81,11 +82,17 @@ The project focuses on real-world payments, transparent governance, and building
 - **DEX:** Raydium  
 - Status: Active with live liquidity.  
 
-### 🔒 Proof of Liquidity & Burns
-- **Burn Proof (5% of liquidity allocation burned):**  
-  [View Transaction on Solscan](https://solscan.io/tx/5361ey4KYtdMKJrjt1GwTQDy2mVUtMSpCBV8Lv5s3mxvVbL2DBMQCnoePB6y7RMte72uUmDMqGSZ5R9Ht9XsXfaj)  
-- **Liquidity Lock Proof:**  
-  [View Contract on Streamflow](https://app.streamflow.finance/contract/solana/mainnet/8C4ahQ4nnTNUeuEPeA1aaf78BxLrsujR9FW19c4VLPfL?ref=ponderously-saved-garpike)  
+### 🔒 Proof of Liquidity & Vesting Contracts
+
+| # | Contract Type | Unlock Schedule | Contract ID | Streamflow Link | Solscan TX |
+|---|---------------|----------------|-------------|----------------|-----------|
+| 1 | Main Lock – 30M tokens | Cliff unlock on **23 Feb 2026** | [8C4ahQ4nnTNUeuEPeA1aaf78BxLrsujR9FW19c4VLPfL](https://solscan.io/account/8C4ahQ4nnTNUeuEPeA1aaf78BxLrsujR9FW19c4VLPfL) | [View Contract](https://app.streamflow.finance/contract/solana/mainnet/8C4ahQ4nnTNUeuEPeA1aaf78BxLrsujR9FW19c4VLPfL) | [View TX](https://solscan.io/tx/3wfrW7jCxVupeQ61bKHSEJk4qD3smsA9maHEnYcjZS317q98BHpBLGEectYD2Nsc5sqwWCGCHCAcwkhe4Se6UKAL) |
+| 2 | Main Vesting – Community & Burn | Linear unlock every 3 months, starting **23 Feb 2026** | [CjjffaQ7kDVgx3nMfKWASdpRZHstoiByR5FjtGZp3nMX](https://solscan.io/account/CjjffaQ7kDVgx3nMfKWASdpRZHstoiByR5FjtGZp3nMX) | [View Contract](https://app.streamflow.finance/contract/solana/mainnet/CjjffaQ7kDVgx3nMfKWASdpRZHstoiByR5FjtGZp3nMX) | [View TX](https://solscan.io/tx/47kUUhCYY3FEKnj7s9aYU3Sdub6xm1TBh5tP1N1bvXWYZLAMB96NT7etXo82t99bj6Cb212Xz2tv5Zm1iVtt3hRL) |
+| 3 | **Liquidity Pool LP NFT Lock** | Cliff unlock on **28 Nov 2025** | [7Gso9MNDNZ23raH46M3Uy3A8sVeyRg7ih33oGBYWx6x3](https://solscan.io/account/7Gso9MNDNZ23raH46M3Uy3A8sVeyRg7ih33oGBYWx6x3) | [View Contract](https://app.streamflow.finance/contract/solana/mainnet/7Gso9MNDNZ23raH46M3Uy3A8sVeyRg7ih33oGBYWx6x3) | [View TX](https://solscan.io/tx/4yaSnYHtPrgXFEtsSQEFV3x9EHUjRZWhbwnhVYWQSJdh7dJznMFxipn9cpt9hAAQ6tkYdDzsuSDoRBySmgo22J9c) |
+
+> **Sender:** `CzKzEr4sEGJX84YMBczhXSXwxyM4mSDsKoxvHqdC2mCm`  
+> **Recipient:** `DHGrB8Bd9zvkafWDCu67FkbuW8JegmBcezKcad7iQDju`  
+> **Mint (LP NFT):** `8Fb6E2jEDL7fRgfyVN3nKtEQJPkQbynpfZKyP2hpQa8w`
 
 ---
 
@@ -110,15 +117,10 @@ The project focuses on real-world payments, transparent governance, and building
 | Locked Main Contract – Tranche 1  | 2026-02-23 08:03      | 2026-08-23 10:00      | Linear       | 6     | Monthly   | 182,625,075  |
 | Locked Main Contract – Tranche 2  | 2026-11-23 10:00      | 2027-02-23 10:00      | Linear       | 3     | Monthly   | 182,625,075  |
 | Locked Main Contract – Tranche 3  | 2027-05-23 10:00      | 2027-08-23 10:00      | Linear       | 3     | Monthly   | 91,312,537   |
-| Team Allocation                    | 2025-08-16 10:00      | 2028-08-16 10:00      | Linear       | 12    | Monthly   | 162,333,400  |
-| Airdrops                           | 2025-08-23 10:00      | 2026-02-23 10:00      | Linear       | 1     | Monthly   | 40,583,350   |
+| Team Allocation                   | 2025-08-16 10:00      | 2028-08-16 10:00      | Linear       | 12    | Monthly   | 162,333,400  |
+| Airdrops                          | 2025-08-23 10:00      | 2026-02-23 10:00      | Linear       | 1     | Monthly   | 40,583,350   |
 
 🔗 [Full Unlock Schedule (Google Sheets)](https://docs.google.com/spreadsheets/d/1mqGDq25ALXAz4vD3U980_pE0M23rx8m6LYezPgRRpN4/edit?usp=drive_link)  
-
-> **Notas técnicas (para o formulário da CMC):**  
-> • Em **Cliff**, deixe “Every” e “Frequency” em branco.  
-> • Em **Airdrops** (janela de 6 meses), use “Every = 1” e “Frequency = Monthly”.  
-> • A tabela acima é um _snapshot_ do plano. Certifique-se de que a **soma final no formulário (Annex A + Annex M) = 811,666,999 SCS**.
 
 ---
 
